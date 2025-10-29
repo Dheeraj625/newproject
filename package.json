@@ -1,0 +1,27 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dheeraj",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dheeraj625/newproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dheeraj625/newproject/issues"
+  },
+  "homepage": "https://github.com/Dheeraj625/newproject#readme",
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
